@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Food-Store-Frontend/static/css/main.3d6cb7b9.css",
+    "main.js": "/Food-Store-Frontend/static/js/main.9106fb6e.js",
+    "static/media/meals.jpg": "/Food-Store-Frontend/static/media/meals.2971f633fc1382581cbf.jpg",
+    "index.html": "/Food-Store-Frontend/index.html",
+    "main.3d6cb7b9.css.map": "/Food-Store-Frontend/static/css/main.3d6cb7b9.css.map",
+    "main.9106fb6e.js.map": "/Food-Store-Frontend/static/js/main.9106fb6e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3d6cb7b9.css",
+    "static/js/main.9106fb6e.js"
+  ]
+}
